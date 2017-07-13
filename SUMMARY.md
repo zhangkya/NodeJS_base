@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 * [第一部分 入门](chapter1/README.md)
-  * [第1章 node.js介绍](chapter1/Chapter1.1.md)
+  * [第1章 node.js介绍](chapter1/chapter1.1.md)
   * [第2章 npm(node包管理器)](chapter1/Chapter1.2.md)
   * [第3章 node.js的作用](chapter1/Chapter1.3.md)
   * [第4章 回调callback](chapter1/Chapter1.4.md)  
